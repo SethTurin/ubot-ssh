@@ -1,0 +1,16 @@
+
+sshcommand:
+  description: SSH to a host and execute a command
+  parameters:
+    - name: host      
+      label: Host
+      editor: text
+      description: Destination host
+    - name: user      
+      label: User
+      editor: text
+      description: Username
+    - name: command      
+      label: Command
+      editor: text
+      description: Command

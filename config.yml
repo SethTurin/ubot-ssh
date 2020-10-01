@@ -1,0 +1,8 @@
+category: SSH Client
+module_name: ubot-ssh
+downloads:
+  - pywin32
+  - pendulum
+dependencies:
+  - win32api
+  - pendulum
